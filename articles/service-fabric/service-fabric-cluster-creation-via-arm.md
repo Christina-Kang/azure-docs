@@ -94,7 +94,7 @@ Use the following command to create cluster, if you want the system to generate 
 ### login to Azure
 
 ```PowerShell
-Connect-AzureRmAccount
+Login-AzureRmAccount
 Set-AzureRmContext -SubscriptionId <guid>
 ```
 
